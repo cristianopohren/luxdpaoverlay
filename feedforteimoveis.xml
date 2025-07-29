@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+   <channel>
+     <title>Forte Imóveis</title>
+     <link>https://www.forteimoveisnh.com.br</link>
+     <description>Imobiliária Novo Hamburgo Apartamentos Casas Imoveis</description>
+     <item>
+       <g:id>terreno1</g:id>
+       <g:title>Terreno Bairro São Jorge Plano</g:title>
+       <g:description>323m2 17m x 19m</g:description>
+       <g:link>https://www.forteimoveis.com.br/terreno1</g:link>
+       <g:image_link>https://i.ibb.co/My8rLj9N/1.jpg</g:image_link>
+       <g:price>R$ 180.000,00</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>terreno1</g:mpn>
+       <g:brand>Forte Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0></g:custom_label_0>
+       <g:custom_label_1></g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+     </item>
+     <item>
+       <g:id>terreno2</g:id>
+       <g:title>Terreno Bairro São Jorge com Vista</g:title>
+       <g:description>300m2 10m x 30m</g:description>
+       <g:link>https://www.forteimoveis.com.br/terreno2</g:link>
+       <g:image_link>https://i.ibb.co/fgk51yh/2.jpg</g:image_link>
+       <g:price>R$ 110.000,00</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>terreno2</g:mpn>
+       <g:brand>Forte Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0></g:custom_label_0>
+       <g:custom_label_1></g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+     </item>
+     <item>
+       <g:id>terreno3</g:id>
+       <g:title>Terreno Bairro São Jorge Plano</g:title>
+       <g:description>300m2 10m x 30m</g:description>
+       <g:link>https://www.forteimoveis.com.br/terreno3</g:link>
+       <g:image_link>https://i.ibb.co/WNjgZ9TZ/3.jpg</g:image_link>
+       <g:price>R$ 170.000,00</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>terreno3</g:mpn>
+       <g:brand>Forte Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0></g:custom_label_0>
+       <g:custom_label_1></g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+     </item>
+     <item>
+       <g:id>terreno4</g:id>
+       <g:title>Terreno Bairro São Jorge Aclive</g:title>
+       <g:description>300m2 10m x 30m</g:description>
+       <g:link>https://www.forteimoveis.com.br/terreno4</g:link>
+       <g:image_link>https://i.ibb.co/HpF2LNyX/4.jpg</g:image_link>
+       <g:price>R$ 159.000,00</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>terreno4</g:mpn>
+       <g:brand>Forte Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0></g:custom_label_0>
+       <g:custom_label_1></g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+     </item>
+   </channel>
+</rss>
