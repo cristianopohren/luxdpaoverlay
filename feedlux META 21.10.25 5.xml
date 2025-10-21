@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <listings>
+     <title>Lux Imóveis</title>
+     <link>https://www.luximoveis-rs.com.br</link>
+     <listing>
+       <home_listing_id>4360</home_listing_id>
+       <name>Charme e tranquilidade no Vila Rosa!</name>
+       <description>Se você busca um lar que combine espaço, conforto e uma atmosfera acolhedora, este amplo apartamento de 139m² privativos é a escolha perfeita. Localizado em um prédio arborizado, ele traz a sensação de morar em Porto Alegre, no coração de um dos bairros mais queridos de Novo Hamburgo: o Vila Rosa. O apartamento conta com 3 dormitórios, incluindo uma suíte espaçosa, além de ambientes amplos e bem distribuídos. A sala de estar e a sala de jantar proporcionam conforto para momentos em família, enquanto a sacada oferece um espaço agradável para relaxar. A cozinha é funcional e conta com lavanderia separada e despensa, agregando ainda mais praticidade ao dia a dia. Para completar, o apartamento possui 1 vaga de garagem( possibiliadade de vaga extra a venda no condomínio) e está em um prédio localizado em uma rua tranquila, com infraestrutura de lazer que inclui salão de festas, quiosque com churrasqueira e playground.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-rosa/3-banheiro/3-dormitorio/1-vaga/1-suite/bXlnvnSWnifvaF6gAQal</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FkR7lQxDXswdj8ILvzxrb%2Fnlnxsfsm?alt=media&amp;token=45c1d08f-47c2-4bf4-bf2f-c212928aa924</url>
+       </image>
+       <price>R$ 690.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Pedro Álvares Cabral, 933, 303</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93310-330</component>
+       </address>
+       <latitude>-29.6802819</latitude>
+       <longitude>-51.1321404</longitude>
+       <neighborhood>Vila Rosa</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4227</home_listing_id>
+       <name>Jardim Europa em andar alto, com ocupação imediata</name>
+       <description>Excelente apartamento semimobiliado em andar alto, com 3 dormitórios sendo 1 suíte(transformado em 2 dormitórios sendo 1 suíte + estar íntimo - fácil alteração para projeto original). Cozinha americana, lavanderia, sala estar/jantar com churrasqueira e 3 vagas de garagem. Condomínio em excelente localização com infraestrutura completa. - Portaria 24 horas - Salão de festas - Brinquedoteca - Sala de jogos - Academia - Quiosque - Piscina</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/2-banheiro/3-dormitorio/3-vaga/1-suite/3DLEPJDGaS94nqezYy8x</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2Fkv7Rq2LoFwuI489JOzp1%2Fljpo?alt=media&amp;token=36bed026-ede9-41f0-83d7-8525503c3b7d</url>
+       </image>
+       <price>R$ 990.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Augusto Jung,247</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-340</component>
+       </address>
+       <latitude>-29.6840542</latitude>
+       <longitude>-51.1240092</longitude>
+       <neighborhood>Centro</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4365</home_listing_id>
+       <name>Residencial Aliança</name>
+       <description>Amplo apartamento semimobiliado com 3 dormitórios sendo 1 suíte, cozinha, lavanderia, despensa, sala de estar e jantar com lareira, sacada integrada com churrasqueira, lavabo, banho social e 2 vagas de garagem. Infraestrutura completa com 2 salões de festa, quiosque, piscina, quadra poliesportiva e portaria 24 horas</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-nova/3-banheiro/3-dormitorio/2-vaga/1-suite/UrER38kJ7UzKD06KiVPa</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FUrER38kJ7UzKD06KiVPa%2Fbrgln?alt=media&amp;token=187f44eb-185b-4002-8d23-fda165a78020</url>
+       </image>
+       <price>R$ 940.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Oscar Emilio Muller,118</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93525-350</component>
+       </address>
+       <latitude>-29.6710155</latitude>
+       <longitude>-51.11307559999999</longitude>
+       <neighborhood>Vila Nova</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4370</home_listing_id>
+       <name>Azure, apartamento em andar alto</name>
+       <description>Apartamento em andar alto. 3 suites sendo 1 suíte master e 2 suítes americanas, cozinha com churrasqueira integrada com sala de estar/jantar, lavabo, lavanderia, ótima posição solar e 2 vagas de garagem. Infraestrutura completa: Portaria 24 horas Salão de festas Playground Piscina Academia</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/3-banheiro/3-dormitorio/2-vaga/3-suite/MLBT3HIfIZE4nChozvr2</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FMLBT3HIfIZE4nChozvr2%2Felyasj?alt=media&amp;token=8d3dc90d-4bde-4124-8a1d-297c90c80fa3</url>
+       </image>
+       <price>R$ 1.000.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 16</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4331</home_listing_id>
+       <name>Apartamento semimobiliado em localização privilegiada</name>
+       <description>Ótimo apartamento mobiliado com 3 suítes(2 americanas), lavabo, cozinha integrada com sala estar/jantar, sacada fechada com churrasqueira e excelente vista, lavanderia e 2 vagas de garagem. Condomínio com ótimo padrão construtivo a poucos metros da Av. Maurício Cardoso. Infraestrutura: Piscina Playground Brinquedoteca Salão de festas Quadra poliesportiva Quiosque com forno a lenha</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/boa-vista/3-banheiro/3-dormitorio/2-vaga/3-suite/5YKA5jQw8r7QJ39QHfxb</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2F5YKA5jQw8r7QJ39QHfxb%2Foepi?alt=media&amp;token=5c923ddd-e33c-4683-b494-fe93a57020d4</url>
+       </image>
+       <price>R$ 890.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 17</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4315</home_listing_id>
+       <name>Espaços amplos e conforto em localização estratégica</name>
+       <description>Um apartamento perfeito para quem valoriza espaço, conforto e uma localização estratégica. Em frente à Sociedade Aliança, este apartamento oferece uma área social ampla e integrada, com cozinha conectada ao espaço gourmet com churrasqueira, sala de estar com lareira e sacada com vista aberta e excelente iluminação natural. A planta contempla 3 dormitórios, sendo uma suíte master com closet e hidromassagem, além de banheiro social, dois lavabos, lavanderia e 3 vagas de garagem. Tudo isso em um condomínio arborizado com quiosque e salão de festas. Agende sua visita!</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-nova/3-banheiro/3-dormitorio/2-vaga/1-suite/2iUXOTcc1agkgren8x9m</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2F2iUXOTcc1agkgren8x9m%2Fejprkl?alt=media&amp;token=9cf7a1f9-e215-46c7-a52b-1189c37351f2</url>
+       </image>
+       <price>R$ 1.380.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 18</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4309</home_listing_id>
+       <name>Amplo apartamento com 3 dormitórios sendo 1 suíte</name>
+       <description>Amplo apartamento com 3 dormitórios sendo 1 suíte, lavabo, cozinha, lavanderia, home office, sala estar/jantar, sacada com churrasqueira e 2 vagas de garagem. Condomínio arborizado em ótima localização, com quiosque e salão de festas.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-nova/3-banheiro/3-dormitorio/2-vaga/1-suite/d2ceQuvYZyGBRxswgDfB</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2Fd2ceQuvYZyGBRxswgDfB%2Fdfled?alt=media&amp;token=7cecda67-f4d4-4616-9831-e180ef4dfb24</url>
+       </image>
+       <price>R$ 890.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 19</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4298</home_listing_id>
+       <name>Uma área social que é uma verdadeira obra de arte</name>
+       <description>Lindo apartamento mobiliado com 3 dormitórios sendo 1 suíte com sacada, cozinha, lavanderia, banho social, ampla área social com sala de estar, jantar, home office e espaço gourmet com churrasqueira. O apartamento possuí 1 vaga de garagem e o prédio possuí + algumas vagas rotativas para seus moradores. Condomínio com salão de festas.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/guarani/2-banheiro/3-dormitorio/1-vaga/1-suite/AMvqGBcH0gQTMIBHXiFx</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FAMvqGBcH0gQTMIBHXiFx%2Fvwkm?alt=media&amp;token=227fb40d-6a6f-4634-bdd1-8afcee9998f0</url>
+       </image>
+       <price>R$ 790.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 20</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4250</home_listing_id>
+       <name>Carlos Korndorfer, edifício totalmente revitalizado em localização privilegiada</name>
+       <description>Descubra o equilíbrio perfeito entre espaço, conforto e localização no Residencial Carlos Korndorfer, um edifício totalmente revitalizado que oferece uma infraestrutura completa para você e sua família. Este amplo apartamento, com mais de 200m² de área privativa, proporciona uma experiência única de morar bem. São 3 dormitórios sendo 1 suíte, além de uma espaçosa sala de estar e jantar com lareira, integrada à sacada com churrasqueira, criando um ambiente perfeito para momentos especiais. A cozinha funcional, a lavanderia e o home office agregam ainda mais praticidade ao dia a dia. Para maior comodidade, o apartamento conta também com lavabo, banheiro social e 2 vagas de garagem. Tudo isso em uma localização privilegiada, garantindo um dos melhores custos-benefícios de Novo Hamburgo. Infraestrutura completa: Portaria 24 horas Salão de festas Academia Quadra poliesportiva Piscina Playground Agende uma visita e venha conhecer seu novo lar!</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/3-banheiro/3-dormitorio/2-vaga/1-suite/PIW6TlvQOd9tHaxh5L5l</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FPIW6TlvQOd9tHaxh5L5l%2Fppll?alt=media&amp;token=ec219cd0-9f9c-4177-8de1-3354465c7623</url>
+       </image>
+       <price>R$ 1.350.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 21</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4248</home_listing_id>
+       <name>Privilege Residence com excelente custo benefício</name>
+       <description>Apartamento com excelente custo-benefício em plena Maurício Cardoso. 3 suítes sendo 1 suíte master com closet, hidro e sacada. Ampla área social com sala de estar, sala de jantar, gourmet com churrasqueira e sala de tv. Cozinha, lavanderia, lavabo, wc de serviço e 3 vagas de garagem. Infraestrutura: Portaria 24 horas Salão de festas Quiosque Academia Playground Piscina Quadra poliesportiva</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/5-banheiro/3-dormitorio/3-vaga/3-suite/wdBSu3tQqDFfBEwbWzvU</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FwdBSu3tQqDFfBEwbWzvU%2Filumiia?alt=media&amp;token=2a4e569a-5c5f-4568-9bbf-01f1d11caecf</url>
+       </image>
+       <price>R$ 1.390.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 22</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4366</home_listing_id>
+       <name>Casa de alto padrão nova, pronta para morar</name>
+       <description>Casa nova, pronta para morar com projeto moderno, distribuído em dois pavimentos e pensado para oferecer conforto, praticidade e tecnologia. A área íntima conta com 3 suítes no andar superior, sendo uma delas com closet. No térreo, há a possibilidade de implantação de uma 4ª suíte, conforme espera já prevista no projeto. A área social é ampla, com espaço gourmet integrado com churrasqueira, ideal para reunir amigos e família. O ambiente ainda contempla lavabo, depósito, espaço para home office e garagem coberta para dois carros lado a lado, além de espaço externo para mais dois veículos. A casa conta com acabamentos de alto padrão, incluindo porcelanato nas áreas sociais e laminado nos dormitórios, forro de gesso em toda a residência, aberturas externas em alumínio preto e portas internas em laca branca. As persianas são automatizadas e os muros, grades e portões já estão incluídos no projeto, em metal e vidro. Infraestrutura técnica completa com água quente a gás, reservatório de 2.500L para reaproveitamento da água da chuva e diversas esperas: para energia fotovoltaica, split em todos os ambientes, piscina, cerca elétrica, carregador para carro elétrico e gerador de energia.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/jardim-maua/4-banheiro/3-dormitorio/4-vaga/4-suite/8t6P1oJZafI6BDCBCNn1</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2F8t6P1oJZafI6BDCBCNn1%2Fsvpyzdj?alt=media&amp;token=e53afa4f-e8d2-4172-a145-a80ee02ef518</url>
+       </image>
+       <price>R$ 1.780.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 23</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4277</home_listing_id>
+       <name>Morada do Poentes</name>
+       <description>Um refúgio completo para viver bem! ☀️🌳 Esta casa encantadora em condomínio fechado combina conforto e muito lazer em um só lugar. Perfeita para quem valoriza momentos especiais em família e contato com a natureza! Com 3 dormitórios, sendo uma suíte com closet, a casa oferece privacidade e conforto para toda a família. A cozinha integrada com a sala de estar e jantar proporciona um ambiente acolhedor, perfeito para o convívio diário. No andar superior, um sótão funcional abriga um home office espaçoso, ideal para trabalhar ou relaxar com tranquilidade. O amplo pátio privativo arborizado conta com piscina aquecida e um salão de festas com churrasqueira, oferecendo o cenário perfeito para momentos ao ar livre. A casa também é equipada com energia fotovoltaica, garantindo economia e sustentabilidade. O condomínio oferece infraestrutura completa com salão de festas, piscina, quiosque, estar do fogo e uma quadra de beach tennis, proporcionando lazer e bem-estar em meio à natureza. Agende sua visita e descubra o seu novo lar!</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa-em-condominio/novo-hamburgo/rondonia/3-banheiro/3-dormitorio/2-vaga/1-suite/cZSDG3BJ5DC7Db4VemEj</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FcZSDG3BJ5DC7Db4VemEj%2Ffacah?alt=media&amp;token=d70d59b0-c4c5-4a06-8a65-d4158580a6db</url>
+       </image>
+       <price>R$ 1.750.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 24</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4367</home_listing_id>
+       <name>Maravilha de casa com muita iluminação natural</name>
+       <description>Em localização privilegiada na parte alta da cidade, esta casa oferece conforto, funcionalidade e ambientes acolhedores. São 3 dormitórios, sendo 1 suíte com sacada, ampla sala de estar e jantar com lareira, cozinha e lavanderia. No segundo pavimento, um estar íntimo com lareira proporciona ainda mais aconchego, enquanto o espaço gourmet com churrasqueira conecta-se harmoniosamente ao pátio, onde a piscina se destaca como um verdadeiro refúgio para os dias ensolarados. Perfeita para receber amigos e familiares. O imóvel conta também com banheiro social, lavabo, wc de serviço, despensa, pátio interno com acesso à lavanderia e 2 vagas de garagem. Para maior comodidade e segurança, dispõe de cerca elétrica, água quente e poço artesiano.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/guarani/4-banheiro/3-dormitorio/2-vaga/1-suite/WArdB80Ceu9NPfd02hHR</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FWArdB80Ceu9NPfd02hHR%2Fhciy?alt=media&amp;token=1f57fdb9-1874-499a-84c1-f1c5bd24ec41</url>
+       </image>
+       <price>R$ 1.160.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 25</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4359</home_listing_id>
+       <name>Projeto assinado por arquiteta moradora no Horizon Clube Residencial</name>
+       <description>Se você busca conforto, sofisticação e qualidade de vida, essa casa no Horizon Clube Residencial é para você. Com projeto autoral da própria moradora, cada detalhe foi pensado para oferecer funcionalidade, estética e bem-estar em todos os ambientes. A casa conta com 4 suítes, sendo uma delas com closet e aquecimento no piso, excelente iluminação natural e uma vista privilegiada para o condomínio. A área social é totalmente integrada, com estar com lareira, cozinha com ilha, espaço gourmet com churrasqueira elétrica e lavabo. Além de 4 vagas de garagem, sendo 2 cobertas e 2 descobertas. Entre os diferenciais, destacam-se: -Poço artesiano e irrigação -Dois ar-condicionados modelo K7 na sala -Piscina com aquecimento e banheiro externo de apoio -Ar-condicionado split quente e frio em três das quatro suítes -Sistema de energia solar com 20 placas (aproximadamente 980 kWh/mês) -Despensa (com infraestrutura pronta para banheiro de serviço, se desejado) -Móveis sob medida e eletrodomésticos instalados permanecem no imóvel Venha morar em uma das melhores infraestruturas do Vale dos Sinos: Club House Piscina com raia e spa Piscina infantil Salão de festas Quiosque Gourmet Estar mirante com lareira externa Play baby Espaço Kids Quadras de tênis Fitness Fitness ao ar livre Bicicletário Campo de futebol Quadra poliesportiva Sala de jogos Vestiário das piscinas Estacionamento para visitantes</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa-em-condominio/estancia-velha/encosta-do-sol/6-banheiro/4-dormitorio/4-vaga/4-suite/xOeEnK98ifW7ka0nidpV</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FxOeEnK98ifW7ka0nidpV%2Focjkq?alt=media&amp;token=291051aa-1356-485f-af52-cc4343db718d</url>
+       </image>
+       <price>R$ 3.990.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 26</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4329</home_listing_id>
+       <name>Casa mobiliada em condomínio fechado próximo a Maurício Cardoso</name>
+       <description>Charme e comodidade em uma das localizações mais desejadas de Novo Hamburgo. Essa casa mobiliada e decorada em condomínio oferece conforto e praticidade a poucos metros da Av. Maurício Cardoso. São 2 dormitórios, sendo 1 suíte, além de um ambiente com home office, que também pode ser facilmente adaptado como 3º dormitório. A cozinha integra-se à sala de jantar e ao espaço gourmet com churrasqueira, que se conecta à varanda com uma vista encantadora. É o cenário perfeito para receber amigos ou relaxar no fim do dia. Conta ainda com sala de estar, lavabo, lavanderia e 2 vagas de garagem. Tudo isso em um condomínio agradável e bem localizado. Ideal para quem busca viver com tranquilidade, sem abrir mão da praticidade urbana.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa-em-condominio/novo-hamburgo/centro/3-banheiro/2-dormitorio/2-vaga/1-suite/vl417gSb8bDzI0Sp31jR</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2Fvl417gSb8bDzI0Sp31jR%2Fgajfhhw?alt=media&amp;token=fe5d9648-1194-4782-a82f-170a21c5bb45</url>
+       </image>
+       <price>R$ 1.350.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 27</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4322</home_listing_id>
+       <name>Casa plana, nova, pronta para morar</name>
+       <description>Casa plana com 3 dormitórios sendo 1 suíte, cozinha com churrasqueira integrada com sala de estar/jantar, lavabo, lavanderia, pátio com espaço para piscina e 2 vagas de garagem. Casa entregue</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/jardim-maua/3-banheiro/3-dormitorio/2-vaga/1-suite/LoAsqaKB4OSnUH0FJciE</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FLoAsqaKB4OSnUH0FJciE%2Fvfwz?alt=media&amp;token=e3bdb29c-1243-402b-b34d-26c7b0f562bd</url>
+       </image>
+       <price>R$ 1.219.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 28</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4313</home_listing_id>
+       <name>Casa mobiliada com 3 suítes e vista privilegiada</name>
+       <description>Casa mobiliada com vista privilegiada, composta por 3 suítes, sendo uma delas com closet. A área social é integrada com a cozinha, sala de jantar e estar com lareira, criando um ambiente acolhedor e funcional. O imóvel conta ainda com lavabo e um espaço gourmet com churrasqueira, com acesso direto ao pátio, onde há espaço reservado para futura instalação de piscina. Entre os diferenciais estão as persianas automatizadas nos dormitórios, esquadrias em PVC com ótimo isolamento acústico, sistema de segurança completo com cerca elétrica, alarme e câmeras, além de espera para cisterna e infraestrutura pronta para instalação de elevador. A área gourmet possui possibilidade de ampliação em mais 70 m². A garagem comporta até quatro veículos, sendo duas vagas cobertas e duas externas. Estuda apartamento na negociação.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/boa-vista/5-banheiro/3-dormitorio/2-vaga/3-suite/uzMtIJ8imZViD8hhrlVB</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FuzMtIJ8imZViD8hhrlVB%2Fycstrlx?alt=media&amp;token=dda92342-4650-4781-9970-1af7127fdbaf</url>
+       </image>
+       <price>R$ 1.333.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 29</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4266</home_listing_id>
+       <name>Uma casa com a leveza e o estilo do litoral, no bairro Boa Vista</name>
+       <description>Com um projeto que privilegia a integração e o bem-estar, esta casa combina a arquitetura típica do litoral com o conforto de uma localização privilegiada, a poucas quadras da Av Maurício Cardoso. Construída em 2019, a casa será entregue mobiliada, garantindo praticidade e comodidade para os novos moradores. Conta com 3 suítes, sendo 1 suíte master com closet, proporcionando conforto e privacidade. A área social totalmente integrada une cozinha gourmet com churrasqueira, sala de jantar e estar, criando um ambiente fluído e aconchegante. O toque sofisticado fica por conta da parede revestida com pedra natural e da lareira, trazendo charme e acolhimento para os dias mais frios. A conexão com o pátio arborizado e a grama natural reforça a sensação de estar em uma casa de praia, enquanto a piscina privativa convida ao lazer. Para completar, há ainda um espaço gourmet com churrasqueira e lavabo junto à área externa, tornando cada encontro especial. A casa possui 4 vagas de garagem (2 cobertas e 2 externas), garantindo praticidade no dia a dia.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/boa-vista/5-banheiro/3-dormitorio/4-vaga/3-suite/ad6e3cvosDHxWZHHFaN6</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2Fad6e3cvosDHxWZHHFaN6%2Fzawghpk?alt=media&amp;token=582e98ba-69b9-4ee2-bcb5-7831d771f7ac</url>
+       </image>
+       <price>R$ 2.300.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 30</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4249</home_listing_id>
+       <name>Casa com piscina em ótima localização no bairro Boa Vista</name>
+       <description>Belíssima casa com pátio deslumbrante em excelente localização no bairro Boa Vista. Com 3 dormitórios sendo 1 suíte com sacada, esta casa oferece espaços bem distribuídos e integrados. A cozinha, conectada a uma charmosa varanda envidraçada, cria o cenário ideal para desfrutar de um café da manhã especial. Já a área social é um convite ao bem-estar, com sala de jantar, sala de estar com lareira e acesso direto ao pátio, onde a piscina se torna o destaque para momentos inesquecíveis. A garagem, com espaço para 2 carros internos e mais e 2 vagas externas, pode ser transformada em um amplo salão de festas com churrasqueira, ampliando ainda mais as possibilidades de lazer. Além disso, a casa conta com lavabo, banheiro social, lavanderia, playground e um poço artesiano, garantindo praticidade e conforto para toda a família. Agende uma visita e descubra seu novo lar!</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/boa-vista/3-banheiro/3-dormitorio/4-vaga/1-suite/syNaHXpbBwPBsDPNrxgx</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FsyNaHXpbBwPBsDPNrxgx%2Fvumef?alt=media&amp;token=69c82eea-a33c-4ded-8075-19e66dd2c043</url>
+       </image>
+       <price>R$ 1.180.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 31</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4185</home_listing_id>
+       <name>O aconchego da serra em Novo Hamburgo</name>
+       <description>Linda casa em localização privilegiada, com 4 dormitórios sendo 2 suítes, cozinha, sala de jantar, sala de estar com lareira, sacada e ótima vista, sala de tv, escritório, oficina, dependência, brinquedoteca, espaço gourmet com churrasqueira, amplo pátio com piscina e 4 vagas de garagem. Informações adicionais: -Madeiramento aparente com madeira nobre Ipê -Jardins implantados com projeto paisagístico -Depósito interno de lenha -Circuito Fechado de TV (CFTV) com 12 câmeras externas, Sistema Intelbras -Cerca elétrica e sensores de movimento em todo o perímetro do terreno -Poço artesiano em funcionamento</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa/novo-hamburgo/vila-nova/6-banheiro/4-dormitorio/4-vaga/2-suite/L91isQ6Pp1eLlaCYRvhD</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FL91isQ6Pp1eLlaCYRvhD%2Fbhgeze?alt=media&amp;token=98d529f2-292e-4821-bc38-17699fdd23ba</url>
+       </image>
+       <price>R$ 2.670.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 32</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4341</home_listing_id>
+       <name>Amplo apartamento semimobiliado</name>
+       <description>Ocupação imediata! Apartamento entregue conforme fotos. Amplo apartamento semimobiliado com 2 dormitórios, cozinha com churrasqueira, área de serviço, sala estar/jantar, banho social, ótima vista e 1 vaga de garagem. Infraestrutura: Portaria 24 horas Salão de festas Playground Conveniência 24 horas</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/rondonia/1-banheiro/2-dormitorio/1-vaga/2VbtFeaJlOSNnbqOUfqF</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2F2VbtFeaJlOSNnbqOUfqF%2Fmozuj?alt=media&amp;token=8e52afbe-2e0d-44ed-8839-21dfef249c58</url>
+       </image>
+       <price>R$ 320.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 33</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4340</home_listing_id>
+       <name>Absolutto Residencial apartamento mobiliado</name>
+       <description>Apartamento mobiliado com conforto e praticidade em uma das melhores infraestruturas de Novo Hamburgo. 2 dormitórios sendo 1 suíte, cozinha com churrasqueira integrada à sala de estar e jantar, banho social, lavanderia e 2 vagas de garagem. O condomínio Ideal para quem busca morar com qualidade, segurança e comodidade. Infraestrutura completa: Salão de festas Portaria 24 horas Quadra poliesportiva Cineminha Espaço kids Piscina Academia Playground</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/patria-nova/2-banheiro/2-dormitorio/2-vaga/1-suite/2eDxzmDHxs7CwaBSMpKo</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2F2eDxzmDHxs7CwaBSMpKo%2Fzqasghibu?alt=media&amp;token=36b3225d-9e73-4549-ba6e-391db1e99083</url>
+       </image>
+       <price>R$ 530.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 34</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4369</home_listing_id>
+       <name>Apartamento com suíte e ocupação imediata</name>
+       <description>Apartamento semimobiliado em ótima localização com 2 dormitórios sendo 1 suíte, cozinha integrada com sala estar/jantar, sacada com churrasqueira, banho social e 1 vaga de garagem.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/ideal/2-banheiro/2-dormitorio/1-vaga/1-suite/NX5equjFW4VQ0Zhn69Sm</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FNX5equjFW4VQ0Zhn69Sm%2Fzbwat?alt=media&amp;token=745c6592-f977-4b06-9871-d30b9e5d9633</url>
+       </image>
+       <price>R$ 390.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 35</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4351</home_listing_id>
+       <name>Amplo apartamento semimobiliado</name>
+       <description>Lindo apartamento semimobiliado com 3 dormitórios, cozinha com churrasqueira, área de serviço, sala estar/jantar, banho social, ótima vista e 1 vaga de garagem. Infraestrutura: Portaria 24 horas Salão de festas Playground Conveniência 24 horas</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/rondonia/1-banheiro/3-dormitorio/1-vaga/vIwK1DoFNdpkfBId6Geo</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FvIwK1DoFNdpkfBId6Geo%2Fnxoeq?alt=media&amp;token=0a03625b-8f40-4bb2-bfd6-eb91b88b627c</url>
+       </image>
+       <price>R$ 449.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 36</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4361</home_listing_id>
+       <name>Condomínio Vale das Figueiras</name>
+       <description>Casa totalmente mobiliada, com 2 dormitórios, cozinha planejada integrada com sala de estar/jantar, lavabo, banho social, lavanderia, espaço gourmet com churrasqueira e 1 vaga de garagem. Infraestrutura: Portaria 24 horas Quiosque Playground Salão de festas Quadra poliesportiva</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/casa-em-condominio/novo-hamburgo/canudos/2-banheiro/2-dormitorio/1-vaga/6BoGu7zks9ip7Gh0G5HO</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FX8fAOmv3I367FYFvVQ7m%2Fryuftd?alt=media&amp;token=afdcd3f5-dce5-44fe-b651-274f6b8d17bc</url>
+       </image>
+       <price>R$ 350.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 37</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4333</home_listing_id>
+       <name>100% planejado com 2 vagas de garagem</name>
+       <description>Lindo apartamento, todo feito sob medida! 2 dormitórios, cozinha com churrasqueira integrada com sala estar/jantar, sacada fechada com ótima posição solar, lavanderia, banho social e 2 vagas de garagem. Condomínio com salão de festas, playground e academia.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/canudos/1-banheiro/2-dormitorio/2-vaga/STl8VrEXgq2xCCFjCd5W</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FSTl8VrEXgq2xCCFjCd5W%2Fyrchqtr?alt=media&amp;token=3e3c1616-fc30-4e57-a8c7-c608c3e47664</url>
+       </image>
+       <price>R$ 426.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 38</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4321</home_listing_id>
+       <name>Apartamento bem localizado com ocupação imediata</name>
+       <description>Apartamento com 2 dormitórios, cozinha integrada com ampla sala estar/jantar, sacada integrada com churrasqueira e fogão a lenha, banho social, lavanderia e 1 vaga de garagem. Prédio em excelente localização, com elevador e bicicletário. * Um dos dormitórios conta com isolamento acústico.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/1-banheiro/2-dormitorio/1-vaga/PS36bnYTXfqr7hcrofUf</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FPS36bnYTXfqr7hcrofUf%2Frbnfd?alt=media&amp;token=d7b6bdf4-ff7d-46bd-b2f3-ab5052bacc20</url>
+       </image>
+       <price>R$ 399.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 39</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4319</home_listing_id>
+       <name>Apartamento com ocupação imediatano Residencial Weekend</name>
+       <description></description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/jardim-maua/2-banheiro/3-dormitorio/1-vaga/1-suite/avu5knS4XMBMelB3gnGU</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2Favu5knS4XMBMelB3gnGU%2Fyxwlp?alt=media&amp;token=e4237344-8092-4dc0-99e9-2632eea5ff61</url>
+       </image>
+       <price>R$ 477.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 40</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4287</home_listing_id>
+       <name>Stay Residence, semimobiliado, com 2 dormitórios sendo 1 suíte e 2 vagas de garagem.</name>
+       <description>Lindo apartamento semimobiliado, com 2 dormitórios sendo 1 suíte, cozinha, área de serviço, banho social, sala estar/jantar, sacada com churrasqueira e 2 vagas de garagem. Localização central e de fácil acesso a BR116. Ótima infraestrutura com salão de festas, espaço parrilla, academia e espaço garden.</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/rio-branco/2-banheiro/2-dormitorio/2-vaga/1-suite/vpo8KoGhEQpMSCJyM9PH</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2Fek7hV7QZ2LOLmuQyOfV3%2Ftmmsn?alt=media&amp;token=a07171ad-360e-44d8-8f63-f42f45700397</url>
+       </image>
+       <price>R$ 550.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 41</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4270</home_listing_id>
+       <name>Apartamento semimobiliado no bairro Vila Nova</name>
+       <description>Apartamento semimobiliado em ótima localização no bairro Vila Nova. 2 dormitórios, cozinha, lavanderia, banho social, sala estar/jantar e 1 vaga de garagem. Prédio com portaria eletrônica 24 horas, Playground e salão de festas</description>
+       <url>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-nova/1-banheiro/2-dormitorio/1-vaga/uEHwvGo4UOZpqa1moMRR</url>
+       <image>
+         <url>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FuEHwvGo4UOZpqa1moMRR%2Fejvrhj?alt=media&amp;token=42707521-857a-49b2-8496-de4944e1ea65</url>
+       </image>
+       <price>R$ 295.000,00</price>
+       <availability>for_sale</availability>
+       <address format="simple">
+         <component name="addr1">Rua Julio Kunz, 42</component>
+         <component name="city">Novo Hamburgo</component>
+         <component name="region">Rio Grande do Sul</component>
+         <component name="country">Brasil</component>
+         <component name="postal_code">93510-220</component>
+       </address>
+       <latitude>–29,6778</latitude>
+       <longitude>–51,1308</longitude>
+       <neighborhood>Hamburgo Velho</neighborhood>
+     </listing>
+   </listings>
