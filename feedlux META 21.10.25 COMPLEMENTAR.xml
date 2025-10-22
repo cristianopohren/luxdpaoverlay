@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <listings>
+     <title>Lux Imóveis</title>
+     <link>https://www.luximoveis-rs.com.br</link>
+     <listing>
+       <home_listing_id>4265</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/f479fcd7-1b6d-415c-8361-6f16dfe6a6d5</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4293</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/d93cd56d-b9f6-419a-9d34-e6e160ad8604</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4185</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/131f8f92-a781-4a57-8052-0f15c563f15c</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4313</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/a7d9552c-d4eb-464a-8aec-7068f5dc1704</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4322</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/f0c7c1de-a32b-499b-9d13-005ad5ad21b2</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4327</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/ca7c9295-b146-40b5-8213-ebdebe6b6c19</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4366</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/9f4399cb-cee2-44e0-924c-3db22dffb3f3</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4385</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/8ec9122a-594d-4eea-afbb-a92789fb88eb</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4402</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/7f37449f-e1d0-46c3-9dee-0c9efe89a72b</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4119</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/a2a70725-218c-4844-b784-f4b0d51eb054</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4219</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/efdf5c9f-e228-4f87-b79a-d1566599716e</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4392</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/fae7e934-c8a9-4746-9e53-2b12abcc8123</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4393</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/605c126e-7a3a-48e9-a611-b74a9dc826fc</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4374</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/b1c76955-9d43-406d-8ce7-1dc0102a817c</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4365</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/e7f2e383-736e-435a-b585-cc103b0bb60e</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4315</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/947fcdff-4bc5-4e9d-acd7-09e0916a6171</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4299</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/4aec2dd8-8fdb-4f82-879c-d31972513871</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4253</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/a4275245-dabb-4766-9ee1-ab706f6d6436</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4250</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/33675ffe-5997-4924-b744-34200e630070</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4331</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/2ed8ab64-d0c2-40b6-a84f-5c4ac2324be5</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4387</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/ad60166f-4ca0-4a37-87c3-441f32358911</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4388</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/db75b64d-0e6b-4e23-9580-890a37135efa</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4403</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/27f76a85-58a2-44c0-b1e5-d996867c2d88</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4397</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/ebf2ba52-4345-4b05-b7c5-519ec449708e</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4396</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/36e0a804-8421-4313-992a-8101a153cef1</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4360</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/4ebd6c15-4705-461e-a7c9-c5439e2a9bbc</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4351</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/414a89a3-daa3-4dc8-acd4-d080c7ee0bd2</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4333</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/897f2bc9-7362-4386-82a4-745d43eaca18</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4298</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/3d7d3a27-d6d9-4f48-8792-ed248c0f99ab</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+     <listing>
+       <home_listing_id>4309</home_listing_id>
+       <name>https://o.cropink.com/i/p-i/cfb7a525-fd47-436f-95b9-93a4399592c5</name>
+       <description></description>
+       <url></url>
+       <image>
+         <url></url>
+       </image>
+       <price></price>
+       <availability></availability>
+       <address format="simple">
+         <component name="addr1"></component>
+         <component name="city"></component>
+         <component name="region"></component>
+         <component name="country"></component>
+         <component name="postal_code"></component>
+       </address>
+       <latitude></latitude>
+       <longitude></longitude>
+       <neighborhood></neighborhood>
+     </listing>
+   </listings>
