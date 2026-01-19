@@ -17,10 +17,10 @@
        <g:identifier_exists>no</g:identifier_exists>
        <g:condition>new</g:condition>
        <g:custom_label_0>3 quartos 1 suíte</g:custom_label_0>
-       <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 870.000,00</g:sale_price>
+       <g:custom_label_1>2 vagas </g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão</g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>4227</g:id>
@@ -35,9 +35,9 @@
        <g:identifier_exists>no</g:identifier_exists>
        <g:condition>new</g:condition>
        <g:custom_label_0>3 quartos 1 suíte</g:custom_label_0>
-       <g:custom_label_1>3 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_1>2 vagas</g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -53,10 +53,10 @@
        <g:identifier_exists>no</g:identifier_exists>
        <g:condition>new</g:condition>
        <g:custom_label_0>3 suítes</g:custom_label_0>
-       <g:custom_label_1>5 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 1.680.000,00</g:sale_price>
+       <g:custom_label_1>5 vagas </g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão</g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>4190</g:id>
@@ -71,9 +71,9 @@
        <g:identifier_exists>no</g:identifier_exists>
        <g:condition>new</g:condition>
        <g:custom_label_0>3 quartos 1 suíte</g:custom_label_0>
-       <g:custom_label_1>3 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_1>2 vagas</g:custom_label_1>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -90,9 +90,9 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>3 quartos 1 suíte</g:custom_label_0>
        <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 1.050.000,00</g:sale_price>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão</g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>4099</g:id>
@@ -108,8 +108,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>3 quartos 1 suíte</g:custom_label_0>
        <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -126,9 +126,9 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>3 suítes</g:custom_label_0>
        <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão </g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 890.000,00</g:sale_price>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão </g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>4315</g:id>
@@ -144,9 +144,9 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>3 quartos 1 suíte</g:custom_label_0>
        <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto alto padrão </g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 1.249.000,00</g:sale_price>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto alto padrão </g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
    </channel>
 </rss>
