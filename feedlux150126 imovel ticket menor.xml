@@ -18,9 +18,9 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>2 quartos</g:custom_label_0>
        <g:custom_label_1>1 vaga</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>335000</g:sale_price>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>4425</g:id>
@@ -36,8 +36,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>2 suítes</g:custom_label_0>
        <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -54,8 +54,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>1 quarto</g:custom_label_0>
        <g:custom_label_1>1 vaga</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -72,9 +72,9 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>2 quartos 1 suite </g:custom_label_0>
        <g:custom_label_1>2 vagas</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 449.900,00</g:sale_price>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>4417</g:id>
@@ -90,8 +90,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>1 quarto</g:custom_label_0>
        <g:custom_label_1>1 vaga</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -108,8 +108,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>2 quartos</g:custom_label_0>
        <g:custom_label_1>1 vaga</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -126,8 +126,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>2 suítes</g:custom_label_0>
        <g:custom_label_1>1 vaga</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor</g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor</g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
      <item>
@@ -144,8 +144,8 @@
        <g:condition>new</g:condition>
        <g:custom_label_0>2 quartos</g:custom_label_0>
        <g:custom_label_1>1 vaga</g:custom_label_1>
-       <g:custom_label_2>Apto ticket menor </g:custom_label_2>
-       <g:custom_label_3></g:custom_label_3>
+       <g:custom_label_2></g:custom_label_2>
+       <g:custom_label_3>Apto ticket menor </g:custom_label_3>
        <g:sale_price></g:sale_price>
      </item>
    </channel>
