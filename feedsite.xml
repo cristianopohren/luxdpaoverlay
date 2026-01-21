@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+   <channel>
+     <title>Lux Imóveis</title>
+     <link>https://www.luximoveis-rs.com.br</link>
+     <description>Imobiliária Novo Hamburgo Casas Apartamentos Casas em Condominio Terrenos Imóveis de alto padrão</description>
+     <item>
+       <g:id>01a</g:id>
+       <g:title>Amplo apartamento com 3 dormitórios sendo 1 suíte - Jardim Paulista</g:title>
+       <g:description>Amplo apartamento com 3 dormitórios sendo 1 suíte, lavabo, cozinha, lavanderia, home office, sala estar/jantar, sacada com churrasqueira e 2 vagas de garagem. Condomínio arborizado em ótima localização, com quiosque e salão de festas.</g:description>
+       <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-nova/3-banheiro/3-dormitorio/2-vaga/1-suite/d2ceQuvYZyGBRxswgDfB</g:link>
+       <g:image_link>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FAUaueE3bswZgiUjo4x3K%2Fhdpktee?alt=media&amp;token=f18fefc1-50cd-4711-ae41-59ede18ef50d</g:image_link>
+       <g:price>R$ 2.150.000</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>01a</g:mpn>
+       <g:brand>Lux Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0>3 quartos</g:custom_label_0>
+       <g:custom_label_1>2 vagas</g:custom_label_1>
+       <g:custom_label_2>112 m²</g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+       <g:sale_price>R$ 2.400.000</g:sale_price>
+     </item>
+     <item>
+       <g:id>02a</g:id>
+       <g:title>Reforma impecável todo mobiliado -  Pinheiros</g:title>
+       <g:description>Este amplo apartamento com área social reformada e planejada, está pronto para ocupação imediata. Originalmente com 3 dormitórios, foi inteligentemente transformado em 2 sendo 1 suíte, com um confortável home office, perfeito para quem busca praticidade no dia a dia. A cozinha integra-se à ampla sala de estar e jantar, criando um ambiente social convidativo, com sacada integrada, churrasqueira e uma ótima vista. O apartamento conta ainda com lavanderia, banho social e 1 vaga de garagem. Um espaço que combina bom gosto, funcionalidade e a conveniência de morar em uma localização central, dentro de um condomínio que oferece toda a comodidade de uma estrutura completa, com piscina aquecida, salão de festas, playground, academia e a tranquilidade da portaria 24 horas.</g:description>
+       <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/rio-branco/2-banheiro/2-dormitorio/1-vaga/1-suite/XY80sSLMi7oqcVBSnoAh</g:link>
+       <g:image_link>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FuqAxpI9UMebcytRAGmdr%2Fmakxk?alt=media&amp;token=ecaf4bef-57bd-4c67-915e-753470ea8544</g:image_link>
+       <g:price>R$ 1.380.000</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>02a</g:mpn>
+       <g:brand>Lux Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0>1 quarto</g:custom_label_0>
+       <g:custom_label_1>1 vaga</g:custom_label_1>
+       <g:custom_label_2>44 m²</g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+       <g:sale_price></g:sale_price>
+     </item>
+     <item>
+       <g:id>03a</g:id>
+       <g:title>Apartamento com varanda, entregue mobiliado - Itaim Bibi</g:title>
+       <g:description>O prazer de ter uma varanda para aproveitar seus momentos. Se você busca um apartamento que combine conforto, funcionalidade e lazer, esta é uma excelente oportunidade. Localizado em um dos bairros mais procurados de Novo Hamburgo, ele reúne praticidade e bem-estar em um só lugar. O apartamento conta com 3 dormitórios, sendo 1 suíte, cozinha com churrasqueira integrada à sala de estar e jantar, banho social, lavanderia e 2 vagas de garagem. Além disso, será entregue mobiliado, oferecendo a praticidade de entrar e já aproveitar cada espaço. Situado no bairro Pátria Nova, referência em valorização e qualidade de vida, este apartamento é perfeito para quem não abre mão de morar bem. A infraestrutura do condomínio oferece salão de festas, espaço gourmet, academia, playground e piscina, garantindo lazer e conveniência para toda a família.</g:description>
+       <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/patria-nova/2-banheiro/3-dormitorio/2-vaga/1-suite/mUBEgITZKhBU9rDDmLUu</g:link>
+       <g:image_link>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FmUBEgITZKhBU9rDDmLUu%2Ffrjswa?alt=media&amp;token=410cadad-511a-4bf2-ad3f-e263653d3e8b</g:image_link>
+       <g:price>R$ 3.800.000</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>03a</g:mpn>
+       <g:brand>Lux Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0>3 suítes</g:custom_label_0>
+       <g:custom_label_1>3 vagas</g:custom_label_1>
+       <g:custom_label_2>243 m²</g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+       <g:sale_price>R$ 1.300.000</g:sale_price>
+     </item>
+     <item>
+       <g:id>04a</g:id>
+       <g:title>Apartamento em andar alto com uma das melhores vistas da cidade</g:title>
+       <g:description>Ótimo apartamento semimobiliado em ótima localização, com 2 suítes, lavabo, cozinha, lavanderia, sala estar/jantar com excelente iluminação natural, sacada com churrasqueira e 2 vagas de garagem. Infraestrutrura: Portaria virtual Academia Salão de festas Playground Piscina</g:description>
+       <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/3-banheiro/2-dormitorio/2-vaga/2-suite/fFR7klHqK77aPeZkT8UJ</g:link>
+       <g:image_link>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FVHLu3ZHwFobKbWUGxAGr%2Fukkjvnt?alt=media&amp;token=ef65eded-d7da-4b89-9f1e-fab7575c5dc8</g:image_link>
+       <g:price>R$ 2.950.000</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>04a</g:mpn>
+       <g:brand>Lux Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0>2 suítes</g:custom_label_0>
+       <g:custom_label_1>2 vagas</g:custom_label_1>
+       <g:custom_label_2>185 m²</g:custom_label_2>
+       <g:custom_label_3></g:custom_label_3>
+       <g:sale_price></g:sale_price>
+     </item>
+   </channel>
+</rss>
