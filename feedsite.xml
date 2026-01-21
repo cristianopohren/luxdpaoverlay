@@ -45,7 +45,7 @@
        <g:title>Apartamento com varanda, entregue mobiliado - Itaim Bibi</g:title>
        <g:description>O prazer de ter uma varanda para aproveitar seus momentos. Se você busca um apartamento que combine conforto, funcionalidade e lazer, esta é uma excelente oportunidade. Localizado em um dos bairros mais procurados de Novo Hamburgo, ele reúne praticidade e bem-estar em um só lugar. O apartamento conta com 3 dormitórios, sendo 1 suíte, cozinha com churrasqueira integrada à sala de estar e jantar, banho social, lavanderia e 2 vagas de garagem. Além disso, será entregue mobiliado, oferecendo a praticidade de entrar e já aproveitar cada espaço. Situado no bairro Pátria Nova, referência em valorização e qualidade de vida, este apartamento é perfeito para quem não abre mão de morar bem. A infraestrutura do condomínio oferece salão de festas, espaço gourmet, academia, playground e piscina, garantindo lazer e conveniência para toda a família.</g:description>
        <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/patria-nova/2-banheiro/3-dormitorio/2-vaga/1-suite/mUBEgITZKhBU9rDDmLUu</g:link>
-       <g:image_link>https://firebasestorage.googleapis.com/v0/b/smartimob-dev-test.appspot.com/o/empresas%2FweOGq249Mw1CRI7npBVM%2FmUBEgITZKhBU9rDDmLUu%2Ffrjswa?alt=media&amp;token=410cadad-511a-4bf2-ad3f-e263653d3e8b</g:image_link>
+       <g:image_link>https://storage.googleapis.com/smartimob-dev-test.appspot.com/empresas/weOGq249Mw1CRI7npBVM/3936/3936_1?GoogleAccessId=firebase-adminsdk-29b6h%40smartimob-dev-test.iam.gserviceaccount.com&amp;Expires=1836864000&amp;Signature=jXb6HqewBBeWgKexx9nDaHlegoeczU8cPd714Dsjfe90yDzJNlcP1gSbw1aGn0%2F18uDcVsAOIBfxNevnkO4FEHYg6DaGvU7fnnpG0tkwuMhy1OSTLhBQt0D3GY7YKMH8vl7O%2BQRrbO3jarvLy%2BlZVcs3VmVDaSpGkshC7e%2BJ6Li%2Fz23Zi3Wn1AgsokaoE7T%2BggcEUuGnw87Pfq2QbiK0ZLn6PKdaP06gyj9K3Gxbdwcmhmg1HO3s2urm7Xi9rVEYSkLeyD9dqpGMrFYVtNzO3G0Dc%2FHDGwXNmKd2Gqug3qYNDc9jfAb%2FLubboOFzTyoS%2BjV75%2BBc1XqL%2B7uuvH2v6g%3D%3D</g:image_link>
        <g:price>R$ 3.800.000</g:price>
        <g:availability>in_stock</g:availability>
        <g:mpn>03a</g:mpn>
@@ -56,7 +56,7 @@
        <g:custom_label_1>3 vagas</g:custom_label_1>
        <g:custom_label_2>243 m²</g:custom_label_2>
        <g:custom_label_3></g:custom_label_3>
-       <g:sale_price>R$ 1.300.000</g:sale_price>
+       <g:sale_price></g:sale_price>
      </item>
      <item>
        <g:id>04a</g:id>
@@ -74,7 +74,7 @@
        <g:custom_label_1>2 vagas</g:custom_label_1>
        <g:custom_label_2>185 m²</g:custom_label_2>
        <g:custom_label_3></g:custom_label_3>
-       <g:sale_price></g:sale_price>
+       <g:sale_price>R$ 3.200.000</g:sale_price>
      </item>
    </channel>
 </rss>
