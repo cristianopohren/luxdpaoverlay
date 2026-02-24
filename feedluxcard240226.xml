@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+   <channel>
+     <title>Lux Imóveis</title>
+     <link>https://www.luximoveis-rs.com.br</link>
+     <description>Imobiliária Novo Hamburgo Casas Apartamentos Casas em Condominio Terrenos Imóveis de alto padrão</description>
+     <item>
+       <g:id>4451</g:id>
+       <g:title>Apartamento semimobiliado em andar alto em uma das melhores infraestruturas de Novo Hamburgo.</g:title>
+       <g:description>Apartamento semimobiliado em andar alto em uma das melhores infraestruturas de Novo Hamburgo. 2 suítes, cozinha com churrasqueira integrada com sala de estar/jantar, lavabo, lavanderia e 2 vagas de garagem. Apartamento voltado para o sol da manhã. Infraestrutura completa: Quadra poliesportiva Quiosques Espelho d´água Playground Pergolados Fitness Hall Salão de festas Quiosque piscina Piscina adulto Piscina infantil Deck molhado central de gás Subestação Guarita Segurança, benefícios e comodidades: Estacionamento coberto - subsolos Acionamento eletrônicos dos portões Sistema de interfone com possibilidades de interface com câmeras externas Espera de antenas, telefonia e internet Espera split instalados nos dormitórios e salas Esquadrias de com vidros duplos nas salas, dormitórios e cozinhas 3 elevadores Guarita com sistema eletrônico de vídeo porteiro Aquecimento coletivo solar de água com apoio a gás Tubulação de água flexível Tratamento de todos os efluentes com reuso de água Medição individualizada Aceso especial de serviço</g:description>
+       <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/centro/3-banheiro/2-dormitorio/2-vaga/2-suite/KyVAkrxtfyJkzq8NSvtS</g:link>
+       <g:image_link>https://storage.googleapis.com/smartimob-dev-test.appspot.com/empresas/weOGq249Mw1CRI7npBVM/6IkFub8nAPPocqmem0ZP/foto_hpeqyj?GoogleAccessId=firebase-adminsdk-29b6h%40smartimob-dev-test.iam.gserviceaccount.com&amp;Expires=1836864000&amp;Signature=LdhOCRUAHHe%2B0P6ocDHrfVnSK7hrr5XSwEQr1TlpdUY8rheTrgfglCaHyX%2BoDCRHK9HABxYh6VlZFPDokAW4rTbvPY6jEVpGNq3mmDchgjjE33L3DXEYs2F%2BMdQdsVqMB1cHAdMfCxXzJLrBOVtTNhtayV3h%2BWd9p4ozAsjYas8X6ocWK2rjNEStxU6qgc0NHLqQE8%2BYuI6seXJuKhyNv8k5heGkri%2BtNC5Za50id5vpTN%2FK5ZyHKu%2Fm92rJ%2F4uHh9Q2DUjyHKuSdIJkvm8o0I%2ByGC9Ctdjn0aJRFLAGqoaIKvfmLzgWWR32Km%2BW8vjeWWhG5z5ELxUWJHgUTe6gaw%3D%3D</g:image_link>
+       <g:price>R$ 1.195.000,00</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>4451</g:mpn>
+       <g:brand>Lux Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0>2 suítes</g:custom_label_0>
+       <g:custom_label_1>2 vagas</g:custom_label_1>
+       <g:custom_label_2>Apto alto padrão</g:custom_label_2>
+       <g:custom_label_3>94 m²</g:custom_label_3>
+       <g:sale_price></g:sale_price>
+     </item>
+     <item>
+       <g:id>4434</g:id>
+       <g:title>Charme e tranquilidade no Vila Rosa!</g:title>
+       <g:description>Se você busca um apartamento amplo, bem localizado e com excelente potencial para reforma e personalização, esta é uma oportunidade especial. Localizado em um prédio arborizado, ele traz a agradável sensação de morar em Porto Alegre, no coração de um dos bairros mais queridos de Novo Hamburgo: o Vila Rosa. Com 139m² privativos, o apartamento conta com 3 dormitórios, incluindo uma suíte espaçosa, além de ambientes amplos e bem distribuídos. A sala de estar e a sala de jantar proporcionam conforto para momentos em família, enquanto a sacada oferece um espaço agradável para relaxar no dia a dia. A cozinha é funcional e conta com lavanderia separada e despensa, agregando ainda mais praticidade à rotina e permitindo diversas possibilidades de modernização conforme o seu projeto. Para completar, o imóvel dispõe de 2 vagas de garagem. O prédio está localizado em uma rua tranquila e oferece infraestrutura de lazer com salão de festas, quiosque com churrasqueira e playground, em um ambiente cercado de verde.</g:description>
+       <g:link>https://www.luximoveis-rs.com.br/imovel/venda/apartamento/novo-hamburgo/vila-rosa/3-banheiro/3-dormitorio/2-vaga/1-suite/p4EnjmehI0hJUYEA6sHV</g:link>
+       <g:image_link></g:image_link>
+       <g:price>R$ 660.000,00</g:price>
+       <g:availability>in_stock</g:availability>
+       <g:mpn>4434</g:mpn>
+       <g:brand>Lux Imóveis</g:brand>
+       <g:identifier_exists>no</g:identifier_exists>
+       <g:condition>new</g:condition>
+       <g:custom_label_0>3 quartos</g:custom_label_0>
+       <g:custom_label_1>2 vagas</g:custom_label_1>
+       <g:custom_label_2>Apto ticket médio</g:custom_label_2>
+       <g:custom_label_3>139 m²</g:custom_label_3>
+       <g:sale_price>R$ 600.000,00</g:sale_price>
+     </item>
+   </channel>
+</rss>
